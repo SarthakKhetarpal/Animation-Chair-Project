@@ -1,1 +1,1 @@
-# Weather web app - Developed by Sarthak Khetarpal
+# Animation Chair Project  - Developed by Sarthak Khetarpal
